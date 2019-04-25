@@ -8,7 +8,7 @@ public class Hello {
 
 	@RequestMapping("/test")
 	public String sayHello() {
-		System.out.println("sdasdas");
+		System.out.println("sdsda");
 		return "hello springboot 欢迎来到springboot";
 	}
 }
